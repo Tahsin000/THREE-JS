@@ -8,7 +8,7 @@
 - then enjoy yourself
 
 
-<h2><a href="https://tahsin000.github.io/BLENDER_GAME_DEVELOPMENT/Symbiodent%20Toothpaste/video.html">Symbiodent Toothpaste</a></h2>
+<h2><a href="#">MODEL NAME</a></h2>
 <ul>
 <li><strong>Modeling takes time</strong>
 <ul>
@@ -29,8 +29,8 @@
 <li>3.5 h</li>
 </ul>
 </li>
-<li><strong>Model Blender File - <a href="https://github.com/Tahsin000/BLENDER_GAME_DEVELOPMENT/blob/master/Symbiodent%20Toothpaste/Toothpaste1.blend?raw=true">Click ME</a></strong></li>
-<li><strong>Model Preview - <a href="https://tahsin000.github.io/BLENDER_GAME_DEVELOPMENT/Symbiodent%20Toothpaste/video.html">Click ME</a></strong></li>
+<li><strong>Model Blender File - <a href="#">Click ME</a></strong></li>
+<li><strong>Model Preview - <a href="#">Click ME</a></strong></li>
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
