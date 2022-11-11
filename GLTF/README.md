@@ -1,11 +1,12 @@
-<div>
+
 <h2>please!! </h2>
 <h4>when you run this preset in VSCODE </h4>
--   first of all you go in this folder "GLTF/Assets/"
--   open this folder in VSCODE
--   open live server 
--   then enjoy yourself
-</div>
+
+- first of all you go in this folder "GLTF/Assets/"
+- open this folder in VSCODE
+- open live server
+- then enjoy yourself
+
 
 <h2><a href="https://tahsin000.github.io/BLENDER_GAME_DEVELOPMENT/Symbiodent%20Toothpaste/video.html">Symbiodent Toothpaste</a></h2>
 <ul>
